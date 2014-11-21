@@ -1,0 +1,47 @@
+Features  
+========  
+
+This topic lists the features that are new in Kinect for Windows SDK 2.0 that improve on Kinect for Windows SDK 1.8. The new release of the Kinect for Windows SDK contains the following features:  
+
+-   Ability to use the Xbox One Kinect Sensor  
+-   Wider horizontal and vertical field of view for depth and color  
+-   Full HD color  
+-   Lighting Independent Infrared (30 fps)  
+-   Depth fidelity (3x)  
+-   Improved microphone (zero balanced)  
+-   25 point skeleton for a total of six people (each person has 25 skeletal joints)  
+-   Thumb tracking, end of hand tracking, open and closed hand gestures  
+-   Improved range of high quality operation (.5 meters near, 4.5 meters far)  
+-   Multiple apps can utilize the sensor simultaneously  
+
+The following links explore various Kinect for Windows 2.0 operational and technical capabilities of the device:  
+
+**Temperature and humidity**    
+<http://social.msdn.microsoft.com/Forums/en-US/18cd1979-2612-4e07-bdd5-0ba38712748b/kinect-v2-temperature-and-humidity-specs?forum=k4wv2devpreview>
+
+**Power requirements for the breakout box for robotics**    
+<http://social.msdn.microsoft.com/Forums/en-US/7055890e-d2f9-4450-b7aa-36d04c132176/reqspec-breakout-box-and-power-supply-on-final-sensor?forum=k4wv2devpreview>
+
+**LED specifications for safety and medical operational requirements**    
+<http://social.msdn.microsoft.com/Forums/en-US/1b86b7c8-c2ec-44db-bfc8-a13aea1db05b/led-specification?forum=k4wv2devpreview>
+
+
+
+<!--Please do not edit the data in the comment block below.-->
+<!--
+TOCTitle : Features
+RLTitle : Features
+KeywordA : O:Microsoft.Kinect.k4w2_features_v2
+KeywordA : 9a846d41-07f7-3c0a-b230-d1b9d1c8dbc8
+KeywordK : Features
+KeywordK : introduction, features
+AssetID : 9a846d41-07f7-3c0a-b230-d1b9d1c8dbc8
+Locale : en-us
+CommunityContent : 1
+TopicType : kbOrient
+DocSet : K4Wv2
+ProjType : K4Wv2Proj
+Technology : Kinect for Windows
+Product : Kinect for Windows SDK v2
+productversion : 20
+-->
