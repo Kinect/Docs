@@ -60,7 +60,7 @@ Requirements
 ============  
 
 **Header:** kinect.h  
-**Library:** TBD  
+**Library:** kinect20.lib  
 
 
 
