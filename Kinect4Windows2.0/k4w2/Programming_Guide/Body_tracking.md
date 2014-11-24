@@ -122,7 +122,7 @@ These results are not calculated for the body and exist here for compatibility r
 Engagement  
 ==========  
 
-In previous releases, the Body::Enaged property allowed you to determine how engaged a particular body is with the console. This property has been deprecated. Please see [Face tracking](Face_tracking.md) for how to obtain this data.  
+These results are not calculated for the body and exist here for compatibility reasons with Xbox One. This property has been deprecated. Please see [Face tracking](Face_tracking.md) for how to obtain this data.  
 
 <span id="ID4EOE"></span>
 
