@@ -57,22 +57,9 @@ There is an extensive set of samples available through the SDKBrowser, across a 
 -   Kinect Fusion Explorer (D2D, WPF)  
 -   Speech Basics (D2D, WPF)  
 
-<table>
-<colgroup>
-<col width="100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th align="left"><img src="../resources/note.gif" />Note</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="left"><p>In order to run the speech samples, you need to install the Speech Runtime. In order to build the speech samples, you need to install the Speech SDK.</p></td>
-</tr>
-</tbody>
-</table>
-
+    | ![](../resources/note.gif)Note                                                                                                                  |
+    |-------------------------------------------------------------------------------------------------------------------------------------------------|
+    | In order to run the speech samples, you need to install the Speech Runtime. In order to build the speech samples, you need to install the Speech SDK.  You can find download links to the Speech SDK under "Additional Software Requirements" at [System Requirements](Getting_Started/System_Requirements.md)  |
 
 
 <!--Please do not edit the data in the comment block below.-->
