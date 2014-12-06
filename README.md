@@ -1,4 +1,1 @@
-Docs
-====
-
-Markdown documentation for Kinect for Windows
+Docs====Markdown documentation for Kinect for WindowsThe documentation spans four sub-folders and multiple Markdown (.md) files.  Sub-folders are as follows:\Getting\_Started  \NUI_Tools  \Programming\_Guide  \ReferenceEach of these folders shows up as a folder on MSDN.
