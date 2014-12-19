@@ -65,7 +65,7 @@ Software Requirements
 The following developer environments are supported:  
 
 -   All Visual Studio 2012, including Visual Studio 2012 Express ([Microsoft Visual Studio 2012 Express](http://www.microsoft.com/visualstudio/11/en-us/products/express))  
--   Visual Studio 2013 Ultimate, Premium, Professional, and Express for Windows Desktop  
+-   Visual Studio 2013 Ultimate, Premium, Professional, Community and Express for Windows Desktop  
 
 <span id="Add_Software_Requirements"></span>
 
