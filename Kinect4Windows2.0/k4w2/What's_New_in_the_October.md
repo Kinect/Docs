@@ -9,7 +9,7 @@ Changes for this release
 ========================  
 
 **Windows Store Support**    
-With this release of Kinect for Windows, you are able to develop and publish Kinect enabled applications which target the Windows Store. We are incredibly excited to see what people create. All of the Kinect SDK and sensor functionality are available in this API surface, except for Speech. For more information about developing Windows Store applications which use Kinect, please see: <http://go.microsoft.com/fwlink/?LinkId=517592>.  
+With this release of Kinect for Windows, you are able to develop and publish Kinect enabled applications which target the Windows Store. We are incredibly excited to see what people create. All of the Kinect SDK and sensor functionality are available in this API surface, except for Speech. For more information about developing Windows Store applications which use Kinect, please see: <http://www.microsoft.com/en-us/kinectforwindows/business/windowsstore-apps.aspx#tab=2>.  
 
 **Unity Support**    
 For the first time, the Kinect API set is available in Unity Pro, through a Unity Package. We are excited to be able to offer the platform to our developers. APIs for Kinect for Windows core functionality, visual gesture builder and face are now available to be called from Unity apps. The Unity plugins are available for download at: <http://go.microsoft.com/fwlink/?LinkID=513177>

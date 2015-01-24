@@ -48,7 +48,7 @@ Verify that the driver is installed correctly
 
 To verify that the Kinect driver has been correctly installed, perform the following steps:  
 
-1.  Ensure that KinectService is running.  
+1.  Ensure that **Kinect Monitor Service** is started and running from the **Services** control panel.  
 2.  The three red LEDs on the Kinect sensor should be lit.  
 3.  The Kinect sensor should appear in **Device Manager** as the following nodes under **Audio inputs and outputs**: **Microphone Array (Xbox NUI Sensor)**, **KinectSensor Device**: **WDF Petra KinectSensor Interface 0**, and **Sound, video and game controllers**: **Xbox NUI Sensor**.  
 4.  The Kinect sensor's microphone array will appear under **Sound, video and game controllers** in **Device Manager** as: **Kinect for Windows USB Audio**.  
@@ -61,7 +61,7 @@ As the first step in trouble shooting, we recommend running the Kinect Configura
 
 -   Samples don’t show any output from the sensor.  
     -   Verify that the Kinect Sensor, power hub, and USB 3.0 cables are all connected properly.  
-    -   Verify that only a single instance of KinectService is running (through TaskManager)  
+    -   Verify that only a single instance of **KinectMonitor.exe** is running (through TaskManager)  
     -   In some instances, you may need to completely power cycle the power hub by unplugging it from the power outlet.  
     -   If you have additional USB devices attached to the computer, remove them and try again with only the Kinect Sensor attached. Also, see the USB 3.0 section below.  
     -   Ensure that your system meets the recommended hardware configuration outlined above.  
@@ -82,7 +82,7 @@ Getting Help
 Online developer resources for Kinect for Windows include the following:  
 
 -   [Technical Resources on the Kinect for Windows Website](http://www.microsoft.com/en-us/kinectforwindows/develop/resources.aspx)  
--   [The Kinect for Windows Human Interface Guidelines (HIG)](http://go.microsoft.com/fwlink/?LinkID=247735)  
+-   [The Kinect for Windows v2 Human Interface Guidelines (HIG)](http://download.microsoft.com/download/6/7/6/676611B4-1982-47A4-A42E-4CF84E1095A8/KinectHIG.2.0.pdf)  
 -   [The Kinect for Windows Blog](http://blogs.msdn.com/b/kinectforwindows/)  
 -   [Kinect for Windows v2 SDK Forums](http://social.msdn.microsoft.com/Forums/en-US/home?forum=kinectv2sdk)  
 -   [Coding4Fun Kinect Showcase](http://channel9.msdn.com/coding4fun/kinect)  

@@ -14,16 +14,6 @@ This topic lists the features that are new in Kinect for Windows SDK 2.0 that im
 -   Improved range of high quality operation (.5 meters near, 4.5 meters far)  
 -   Multiple apps can utilize the sensor simultaneously  
 
-The following links explore various Kinect for Windows 2.0 operational and technical capabilities of the device:  
-
-**Temperature and humidity**    
-<http://social.msdn.microsoft.com/Forums/en-US/18cd1979-2612-4e07-bdd5-0ba38712748b/kinect-v2-temperature-and-humidity-specs?forum=k4wv2devpreview>
-
-**Power requirements for the breakout box for robotics**    
-<http://social.msdn.microsoft.com/Forums/en-US/7055890e-d2f9-4450-b7aa-36d04c132176/reqspec-breakout-box-and-power-supply-on-final-sensor?forum=k4wv2devpreview>
-
-**LED specifications for safety and medical operational requirements**    
-<http://social.msdn.microsoft.com/Forums/en-US/1b86b7c8-c2ec-44db-bfc8-a13aea1db05b/led-specification?forum=k4wv2devpreview>
 
 
 
