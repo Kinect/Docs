@@ -6,6 +6,8 @@ Natural User Interface Tools
 In this section  
 ===============  
 
+This section contains references to tools found inside the SDK Tools folder which allow you to create body gestures, view and test gestures, record, view and play Kinect for Windows v2 data streams for testing applications.
+
 [Visual Gesture Builder (VGB)](NUI_Tools/Visual_Gesture_Builder_0.md)    
 Generates data that is used to perform gesture detection and tracking at run time.  
 

@@ -13,8 +13,8 @@ Opening, Building, and Running Samples in Visual Studio
 To Open the Sample in Visual Studio  
 -----------------------------------  
 
-1.  Click the **Start** button and type *kinect toolkit*.  
-2.  In the list of samples, find this sample and click the **Install** button.  
+1.  Click the **Start** button and type *SDK Browser*.  
+2.  In the **SDK Browser (Kinect for Windows) v2.0**, a list of samples will display, find the language of your choice, select a sample and click the **Install** button.  
 3.  Select a location to install the sample to.  
 4.  Double-click the Solution file (.sln) that was installed.  
 

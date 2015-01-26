@@ -9,11 +9,11 @@ Developers should be familiar with the development environment and languages to 
 
 ### UI Frameworks vs Console applications
 
-The Kinect for Windows v2 SDK will provide raw camera data and does not provide capabilities to draw to a window on the desktop. If you intend to visually display the frame data, you will be required to convert that data for use with your UI framework of choice. The samples provide demonstrate this with Direct 2D and Windows Presentation Foundation that can be used as reference.
+The Kinect for Windows v2 SDK will provide raw camera data and does not provide capabilities to draw to a window on the desktop. If you intend to visually display the frame data, you will be required to convert that data for use with your UI framework of choice. The samples provided demonstrate this with Direct 2D and Windows Presentation Foundation. These technologies can be used as reference.
 
 ### Configuring the Development Environment
 
-The SDK includes Kinect for Windows drivers and libraries to x64 systems only. You can still use the SDK to target either 32 or 64 bit applications, but the system must be running a 64 bit version of Windows 8/8.1. Windows N editions will need to install the media pack. 
+The SDK includes Kinect for Windows drivers and libraries to x64 systems only. You can still use the SDK to target either 32 or 64 bit applications, but the system must be running a 64 bit version of Windows 8/8.1. Windows N editions will need to install the media pack <http://www.microsoft.com/en-us/download/details.aspx?id=30685>. 
 
 ### Adding Kinect for Windows v2 to your Managed Application
 
